@@ -1,0 +1,31 @@
+_repo: Paths-of-Judgement_42012
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42012-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sedgwick, Anne Douglas
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '2634'
+    url: http://www.gutenberg.org/2009/agents/2634
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Douglas_Sedgwick
+description: ''
+gutenberg_issued: '2013-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+title: Paths of Judgement
+url: http://www.gutenberg.org/ebooks/42012
